@@ -1,4 +1,4 @@
-# Spring 7: Análisis de una empresa de telecomunicaciones.
+# Sprint 7: Análisis de una empresa de telecomunicaciones.
 Análisis de una empresa de telecomunicaciones.
 
 ## 🧠 Objetivo del análisis
